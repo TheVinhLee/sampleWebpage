@@ -1,7 +1,5 @@
 $(document).ready(function() {
-	
 	setTimeout(function(){
-		window.location.href = "./login.html";
+		window.location.href = "/sampleWebpage/login.html";
 	}, 400);
-	
 });
